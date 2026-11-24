@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+lib64
+include/
+share/
+etc/
+pyvenv.cfg
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# Data / model artifacts
+*.h5
+*.keras
+*.pkl
+*.npy
+*.npz
+data/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
